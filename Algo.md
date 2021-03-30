@@ -9,3 +9,4 @@
 5. Checkout
 6. Get pizza (delivery | pickup)
 7. Have pizza delivered
+8. Get payment for pizza
