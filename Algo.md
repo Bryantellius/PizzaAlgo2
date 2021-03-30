@@ -8,3 +8,4 @@
 4. Delivery or pick up
 5. Checkout
 6. Get pizza (delivery | pickup)
+7. Have pizza delivered
